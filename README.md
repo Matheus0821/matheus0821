@@ -32,19 +32,7 @@ style="max- width:100%"></img>
 <img src="https://www.choczynski.pl/assets/img/spring-boot-icon.svg" alt="SpringBoot" width="40" height="40"
 style="max- width:100%"></img>
 
------------------------------------------------
-## **Contato**
-<a href="https://www.linkedin.com/in/mj77/" target="_blank">
-<img align="center" alt="matheus-ribeiro-villela-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-
 
-
--------------------------------------------------
-## **Mais Informações**
-![Milton's github stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true&theme=radical)
-
--------------------------------------------------
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus0821-theme=blue-green)
 
 
 <!--
