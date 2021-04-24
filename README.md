@@ -1,6 +1,6 @@
 ## MATHEUS   RIBEIRO  VILLELA  
 + :sparkling_heart:	**Apaixonado por tecnologia**
-+ :computer: **Desenvolvedor Full Stack Web Java Jr**
++ :computer: **Desenvolvedor Full Stack Web Java front end **
 + :school: **Cursando Sistemas de Informação - 5° semestre**	
 + :computer_mouse: **Formado no BootCamp Dev Full Stack da Generation**
 -----------------------------------------------
