@@ -1,18 +1,3 @@
-### Hi there 👋
-
-<!--
-**Matheus0821/matheus0821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 ##  Olá, sou Milton Jr :octocat:
 
 + :sparkling_heart:	**Apaixonado por tecnologia**
@@ -50,16 +35,16 @@ style="max- width:100%"></img>
 -----------------------------------------------
 ## **Contato**
 <a href="https://www.linkedin.com/in/mj77/" target="_blank">
-<img align="center" alt="Milton-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-witdh:100%;"></a>
-<a align="center" href="mailto:miltonmjcp@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.imgur.com/yhJTPLs.png"  width="30" /></a>
+<img align="center" alt="matheus-ribeiro-villela-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-
+
 
 -------------------------------------------------
 ## **Mais Informações**
-![Milton's github stats](https://github-readme-stats.vercel.app/api?username=milton-668&show_icons=true&count_private=true&theme=radical)
+![Milton's github stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true&theme=radical)
 
 -------------------------------------------------
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=milton-668&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus0821-theme=blue-green)
 
 
 <!--
@@ -76,3 +61,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
